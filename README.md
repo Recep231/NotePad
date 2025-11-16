@@ -1,30 +1,36 @@
 📝 NotepadApp
 
-Basit ve kullanışlı bir C# WinForms Notepad uygulaması.
-Metin yazma, kaydetme, açma ve düzenleme gibi temel işlevleri içerir.
+Modern ve sade tasarıma sahip bir C# WinForms metin editörü.
+Temel not alma, düzenleme ve kaydetme işlemleri için geliştirilmiştir.
 
-🚀 Özellikler
+✨ Özellikler
 
-Metin yazma ve düzenleme
+🖊️ Metin yazma ve düzenleme
 
-Dosya açma / kaydetme
+📂 Dosya açma / kaydetme
 
-Temel kısayolların desteklenmesi
+⚡ Kısayol desteği
 
-Gelişmiş RichTextBox kullanımı
+🎨 Gelişmiş RichTextBox kullanımı
 
-🛠 Kullanılan Teknolojiler
+🧩 Temiz ve modüler WinForms yapısı
+
+🛠️ Kullanılan Teknolojiler
 
 C#
 
 .NET 9.0
 
-Windows Forms
+WinForms
 
 📂 Proje Yapısı
-
-Form1.cs: Ana arayüz
-
-EnhancedRichTextBox.cs: Gelişmiş metin kutusu
-
-Program.cs: Uygulama başlangıç noktası
+NotepadApp/
+│
+├── Controls/
+│   └── EnhancedRichTextBox.cs
+│
+├── Form1.cs
+├── Form1.Designer.cs
+├── Program.cs
+├── NotePadApp.csproj
+└── .gitignore
