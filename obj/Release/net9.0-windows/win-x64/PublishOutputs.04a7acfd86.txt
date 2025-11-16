@@ -1,5 +1,0 @@
-C:\Users\Recep Yıldırım\OneDrive\Desktop\NotePad\bin\Release\net9.0-windows\win-x64\publish\NotePadApp.exe
-C:\Users\Recep Yıldırım\OneDrive\Desktop\NotePad\bin\Release\net9.0-windows\win-x64\publish\NotePadApp.dll
-C:\Users\Recep Yıldırım\OneDrive\Desktop\NotePad\bin\Release\net9.0-windows\win-x64\publish\NotePadApp.deps.json
-C:\Users\Recep Yıldırım\OneDrive\Desktop\NotePad\bin\Release\net9.0-windows\win-x64\publish\NotePadApp.runtimeconfig.json
-C:\Users\Recep Yıldırım\OneDrive\Desktop\NotePad\bin\Release\net9.0-windows\win-x64\publish\NotePadApp.pdb
